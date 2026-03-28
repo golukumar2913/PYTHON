@@ -1,3 +1,5 @@
+# check Armstrong number
+
 num = int(input("Enter no "))
 
 temp = num 

@@ -1,4 +1,5 @@
 # Find Lcm and print
+
 a = int(input("Enter no "))
 b = int(input("Enter second no "))
 
@@ -9,8 +10,8 @@ while y != 0:
     x , y = y , x % y
 
 gcd = x
-print(gcd)
 
-lcm = (a * b) 
+
+lcm = (a * b) // gcd
 print("LCM = ",lcm)
 

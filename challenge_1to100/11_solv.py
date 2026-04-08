@@ -16,7 +16,6 @@ else:
      else:
         print( f"'{char}' is a consonant." )   
 
-
 exit()        
 
 print("golu")        

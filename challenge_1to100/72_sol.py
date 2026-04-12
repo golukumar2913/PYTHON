@@ -8,7 +8,7 @@ for i in lit:
     if i > largest:
         largest = i
 
-print("Largest:", largest)
+print("Largest ", largest)
 
 # Short method 
 

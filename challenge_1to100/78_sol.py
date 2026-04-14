@@ -6,7 +6,6 @@ arr2 = list(map(int, input("Enter 2nd list ").split()))
 
 i = 0
 j = 0
-
 mergelist = []
 
 while i < len(arr1) and j < len(arr2):

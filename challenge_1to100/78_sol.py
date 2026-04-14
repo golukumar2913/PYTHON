@@ -15,9 +15,11 @@ while i < len(arr1) and j < len(arr2):
     else:
         mergelist.append(arr2[j])
         j += 1
+
 while i < len(arr1):
     mergelist.append(arr1[i])
     i += 1
+    
 while j < len(arr2):
     mergelist.append(arr2[j])  
     j += 1

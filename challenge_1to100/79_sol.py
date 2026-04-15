@@ -5,3 +5,4 @@ no = int(input("Enter no find index "))
 for i in range(len(arr)):
     if arr[i] == no:
        print(i)
+     

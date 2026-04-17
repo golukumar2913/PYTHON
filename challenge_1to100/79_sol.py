@@ -1,4 +1,5 @@
-# Find index of element
+# Find index of element in list
+
 arr = list(map(int, input("Enter list value ").split()))
 no = int(input("Enter no find index "))
 
